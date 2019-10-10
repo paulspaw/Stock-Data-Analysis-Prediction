@@ -24,4 +24,6 @@
 >股票走势预测
 
 ### k线图
-![avatar](./k-image.jpg)
+![avatar](./image/k-image.jpg)
+### 价格相对变化
+![avatar](./image/priceChanging.jpg)
